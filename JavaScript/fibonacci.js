@@ -17,7 +17,7 @@ function fibonacci(num){
     for (var i=1; i<=num-2; i++){
         fibSeries.push(fibSeries[i-1]+fibSeries[i]);
     }
-    return fibSer ies;
+    return fibSeries;
     }
 
 }
